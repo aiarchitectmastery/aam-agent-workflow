@@ -150,7 +150,13 @@ available on aiarchitectmastery.com at its own version 3.1.
 
 ## Contributing
 
-This release does not accept pull requests or issues. Send feedback to
+Questions and feedback are welcome in
+[Discussions](https://github.com/aiarchitectmastery/aam-agent-workflow/discussions).
+Use **Q&A** if a step in your first cycle was unclear, and **Show and tell** to
+share how you adapted the template. Please don't post secrets, customer data or
+private code.
+
+This repository does not accept pull requests or issues. You can also write to
 info@aiarchitectmastery.com.
 
 ## License and trademarks
@@ -164,7 +170,7 @@ affiliation.
 
 ---
 
-Learn more about the methodology at [aiarchitectmastery.com](https://aiarchitectmastery.com/methodology/).
+Learn more about the methodology at [aiarchitectmastery.com](https://aiarchitectmastery.com/methodology/?utm_source=github_community&utm_medium=community&utm_campaign=lm002-agent-workflow-2&utm_content=lm002-readme-methodology).
 
 *AI Architect Mastery — Human as architect. AI as builder.*
 *Questions or feedback: info@aiarchitectmastery.com*
